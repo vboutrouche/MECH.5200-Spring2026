@@ -2,6 +2,21 @@
 
 Welcome to the course materials for MECH.5200. This repository contains teaching scripts, code examples, and activities for learning numerical methods in computational mechanics.
 
+## 📋 Assignments
+
+### Project Proposal
+**Due Date:** 13-Feb
+**Document:** [Project.pdf](Misc/Project.pdf)
+
+### Homework 1
+**Due Date:** 4-Mar
+**Document:** [Homework1.pdf](Misc/Homework1.pdf)
+
+## 📅 Course Resources
+
+- **[Class Schedule](Misc/ClassSchedule.pdf)** - Weekly topics, assignments, and important dates
+- **[Course Syllabus](Misc/Syllabus_MECH.5200.pdf)** - Complete course information and policies
+
 ## Overview
 
 This course covers fundamental numerical techniques used in computational mechanics, with emphasis on practical implementation and understanding of algorithms through hands-on coding.
@@ -42,85 +57,22 @@ Explore different approaches to function approximation and interpolation:
 
 - **Activities**
   - `Week2_Activity1.m` - Practical exercises on interpolation
+  - `Week2_Activity1_Solution.m` - Solutions for Activity 1
   - `Week2_Activity2.m` - Applications and comparisons of approximation methods
 
-## Script Format
+- **Video Supplements**
+  - `Video3.pdf` - Supporting lecture material
+  - `Video4.pdf` - Additional examples and derivations
+  - `Video5.pdf` - Advanced topics and applications
 
-All teaching scripts follow the **MATLAB Live Script** format (plain text `.m` files with rich formatting):
+### Week 3: [Content Title]
+**Location:** `Week3/`
 
-- **Rich Text Sections:** Use `%[text]` markup for explanations
-- **Mathematical Equations:** LaTeX formatting with inline ($...$) and display math support
-- **Code Structure:** 
-  - `%%` markers separate logical sections
-  - Clear variable naming aligned with mathematical notation
-  - Detailed comments explaining algorithms
-- **Visualization:** Implicit figure creation with `fplot()` and `scatter()` commands
+Additional course materials covering advanced topics in numerical methods.
+- `Video6.pdf` - Lecture notes
+- `Video7.pdf` - Additional materials
+- `Video8.pdf` - Supplementary content
 
-## Learning Objectives
 
-By working through these materials, you will understand:
-
-1. **Polynomial Interpolation**
-   - Lagrange basis function construction
-   - Error analysis and convergence properties
-   - Practical applications in numerical analysis
-
-2. **Function Approximation**
-   - Taylor series theory and implementation
-   - Truncation error and remainder terms
-   - Convergence properties of series expansions
-
-3. **Numerical Implementation**
-   - Efficient MATLAB coding for scientific computing
-   - Visualization of mathematical concepts
-   - Comparison of different approximation methods
-
-## Using These Materials
-
-### Running a Script
-```matlab
-% Open the file in MATLAB
-open('Lagrange.m')
-
-% Run the entire script or individual sections
-```
-
-### Modifying and Experimenting
-- Change `N` (number of points) to see interpolation quality change
-- Adjust the `Interval` to explore different domains
-- Try different functions (replace `sin(x)*exp(x)` with other expressions)
-
-### Best Practices
-- Run scripts sequentially from top to bottom
-- Read comments and text explanations carefully
-- Modify code to deepen understanding
-- Compare outputs with mathematical expectations
-
-## Dependencies
-
-- **MATLAB R2025a or newer** (for plain text Live Script support)
-- **Symbolic Math Toolbox** (used in some scripts for symbolic computation)
-- No additional toolboxes required for basic functionality
-
-## Tips for Success
-
-1. **Understand Before Coding:** Read the mathematical background before examining code
-2. **Experiment:** Modify parameters to see how algorithms respond
-3. **Visualize:** Pay attention to plots—they reveal algorithm behavior
-4. **Compare:** Run multiple scripts and compare different approximation approaches
-5. **Challenge Yourself:** Try to predict output before running code
-
-## Syllabus Connection
-
-This course emphasizes:
-- Bridging theory and implementation
-- Numerical stability and error analysis
-- Algorithm development for engineering problems
-- Scientific computing best practices
-
-For complete course details, see `Syllabus_MECH.5200.pdf`
-
----
-
-**Last Updated:** January 2026  
+**Last Updated:** 4-Feb
 **Course:** MECH.5200 - Numerical Methods in Computational Mechanics
