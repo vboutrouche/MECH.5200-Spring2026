@@ -1,5 +1,7 @@
 # MECH.5200 - Numerical Methods in Computational Mechanics
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=vboutrouche/MECH.5200-Spring2026)
+
 Welcome to the course materials for MECH.5200. This repository contains teaching scripts, code examples, and activities for learning numerical methods in computational mechanics.
 
 ## 📋 Assignments
