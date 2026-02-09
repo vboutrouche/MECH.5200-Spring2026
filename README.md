@@ -4,7 +4,7 @@
 
 Welcome to the course materials for MECH.5200. This repository contains teaching scripts, code examples, and activities for learning numerical methods in computational mechanics.
 
-## Link to Video
+## Videos
 - [Video 9](https://echo360.org/media/c5679d8e-6c0b-4a2d-9699-bdd3d692b465/public)
 - [Video 10](https://echo360.org/media/7a050e61-9f74-4945-8d8b-a5f4a43120ab/public)
 - [Video 11](https://echo360.org/media/366ba246-b2aa-404c-9d9d-289f1a37592b/public)
