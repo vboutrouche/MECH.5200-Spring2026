@@ -80,6 +80,3 @@ Additional course materials covering advanced topics in numerical methods.
 - `Video7.pdf` - Additional materials
 - `Video8.pdf` - Supplementary content
 
-
-**Last Updated:** 4-Feb
-**Course:** MECH.5200 - Numerical Methods in Computational Mechanics
