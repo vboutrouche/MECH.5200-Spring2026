@@ -3,7 +3,7 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=vboutrouche/MECH.5200-Spring2026)
 
 ## ⚠️ Important Information
-- **Feb-18**: Class is canceled. There will be an activity to complete during the week to make up for that class time.
+- **Note**: I'm currently stuck in Europe due to my flight being canceled as a result of the snowstorm in Massachusetts. Because of this, I can't yet guarantee that we'll be able to meet in person on Wednesday. It may need to be held virtually, or we may need to reschedule in another way.
 - **Project proposal** extended to 15-Feb!
 
 ## 📋 Assignments
