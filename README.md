@@ -13,7 +13,7 @@
 
 ### Homework 2
 **Due Date:** 29-Mar  
-**Document:** [Homework1.pdf](Misc/Homework2.pdf)
+**Document:** [Homework2.pdf](Misc/Homework2.pdf)
 
 ## 🎥 Videos
 | Week | Videos | Week | Videos
